@@ -1,7 +1,7 @@
 
 variable "domain_name" {
   type        = string
-  default     = "az.pracimabootcampers.online"
+  default     = "<seuDominio>"
   description = "Domain."
 }
 
@@ -9,7 +9,7 @@ variable "domain_name" {
 
 variable "ip_node01" {
   type        = string
-  default     = "40.121.155.62"
+  default     = "<ip>"
   description = "ip node01 "
 }
 
